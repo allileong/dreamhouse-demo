@@ -8,6 +8,14 @@
       "versionDescription": "ver 1.0",
       "versionNumber": "1.0.0.NEXT",
       "ancestorId": ""
+    },
+    {
+      "path": "shared-components",
+      "default": false,
+      "id": "0Ho1I000000000fSAA",
+      "versionName": "v 1.0",
+      "versionDescription": "ver 1.0",
+      "versionNumber": "1.0.0.NEXT"
     }
   ],
   "namespace": "",
