@@ -16,6 +16,14 @@
       "versionName": "v 1.0",
       "versionDescription": "ver 1.0",
       "versionNumber": "1.0.0.NEXT"
+    },
+    {
+      "path": "walk-score",
+      "default": false,
+      "id": "0Ho1I000000000pSAA",
+      "versionName": "v 1.0",
+      "versionDescription": "ver 1.0",
+      "versionNumber": "1.0.0.NEXT"
     }
   ],
   "namespace": "",

@@ -1,0 +1,17 @@
+<aura:component implements="flexipage:availableForAllPageTypes" access="global">
+  <aura:attribute name="latField" type="String" access="global" />
+  <aura:attribute name="longField" type="String" access="global" />
+  <aura:attribute name="score" type="string" />
+  <aura:attribute name="status" type="string" />
+
+  <aura:handler name="init" value="{!this}" action="{!c.doInit}" />
+
+  <lightning:card iconName="utility:image" title="Walking Score">
+    <lightning:layout>
+      <lightning:layoutitem class="{! 'score-block ' + v.status}">
+        <div class="score">{!v.score}</div>
+      </lightning:layoutitem>
+    </lightning:layout>
+  </lightning:card>
+
+</aura:component>

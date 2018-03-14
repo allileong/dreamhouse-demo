@@ -1,0 +1,30 @@
+.THIS .score-block {
+  text-align: center;
+  margin-right: 8px;
+  padding: 8px 12px;
+  border-radius: 0.25rem;
+  border: solid 1px rgb(216, 221, 230);
+}
+.THIS .score-block.red {
+  color: #c23934;
+  border: solid 1px #c23934;
+}
+
+.THIS .score-block.green {
+  color: #00716b;
+  border: solid 1px #00716b;
+}
+
+.THIS .score-block.orange {
+  color: #ffb75d;
+  border: solid 1px #ffb75d;
+}
+
+.THIS .score {
+  font-size: 32px;
+  line-height: 32px;
+  font-weight: 300;
+  margin-right: 12px;
+  margin: 0;
+  padding: 0;
+}
