@@ -2,11 +2,8 @@
   "orgName": "sub1",
   "edition": "Enterprise",
   "orgPreferences": {
-    "enabled": [
-      "S1DesktopEnabled","ChatterEnabled"
-    ],
-    "disabled": [
-      
-    ]
-  }
+    "enabled": ["S1DesktopEnabled", "ChatterEnabled"],
+    "disabled": []
+  },
+  "features": "DebugApex"
 }
